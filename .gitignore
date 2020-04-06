@@ -1,5 +1,6 @@
 .DS_Store
-.mp4
-.jpg
+*.mp4
+*.jpg
 .ipynb_checkpoints/
+debug_files/
 
