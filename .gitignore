@@ -3,4 +3,5 @@
 *.jpg
 .ipynb_checkpoints/
 debug_files/
+*.zip
 
